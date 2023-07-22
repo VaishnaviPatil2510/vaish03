@@ -1,0 +1,4 @@
+java is simple..
+java is object oriented
+java is robust
+java is platform independent
